@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.18.3",
+    "express": "4.16",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "5.11"
+  },
+  "name": "atividade01",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
